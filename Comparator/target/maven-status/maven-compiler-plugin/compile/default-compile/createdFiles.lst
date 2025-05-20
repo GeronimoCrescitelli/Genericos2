@@ -1,0 +1,6 @@
+com\mycompany\comparator\ComparadorDeAutosPorPatente.class
+com\mycompany\comparator\ComparadorDeCadenas.class
+com\mycompany\comparator\Comparator.class
+com\mycompany\comparator\ComparadorDeEnteros.class
+com\mycompany\comparator\Auto.class
+com\mycompany\comparator\ComparadorDeAutosPorKilometraje.class
